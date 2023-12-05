@@ -3,3 +3,8 @@ In this project, a collection of different deep learning models implemented to p
 # Implemented Models
 * Deep Neural Networks (DNN)
 * Convolutional Neural Networks (CNN)
+# Data
+* BCI comp IV dataset 2b
+This data contains motor imagery EEG signals of 9 subjects. The task is a 2-class classification (Right/Left hand). 
+# Usage
+* DNN
