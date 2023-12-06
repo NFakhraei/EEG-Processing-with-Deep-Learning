@@ -9,7 +9,10 @@ This data contains motor imagery EEG signals of 9 subjects. The task is a 2-clas
 # Usage
 * DNN
 You should simply change 3 parts of the 'MIEEG_DNN.py' to reproduce the results:
+
 1- In the first line of the code, write the data directory.
+
 2- In the last line of the code, write the directory you wish to save the results.
+
 3- In the 'main' function inside the for loop, choose your desired hyperparameters below the comment line.
 * CNN
